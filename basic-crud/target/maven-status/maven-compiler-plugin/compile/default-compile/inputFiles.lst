@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\BasicCrudApplication.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\controller\DepartmentController.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\controller\LocationController.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\entity\Department.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\entity\dto\DepartmentDto.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\entity\dto\LocationDto.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\entity\Location.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\exception\ResourceNotFoundException.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\repository\DepartmentRepository.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\repository\LocationRepository.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\service\DepartmentService.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\service\implementation\DepartmentServiceImplementation.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\service\implementation\LocationServiceImplementation.java
+C:\Users\User\Desktop\examples\basic-crud\src\main\java\org\example\basiccrud\service\LocationService.java
